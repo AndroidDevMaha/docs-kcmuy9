@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-agfrta.salamduit.xyz/sitemap.xml
